@@ -1,0 +1,41 @@
+﻿CID_Final;Metodo;Confidence;Descricao_CID;Classificacao_Final;Motivo;chave_unica;Diagnóstico;Topografia;SNOMED
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Alteração Fibroadenomatoide|Mama esquerda - 01 Hora(Mamotomia)|M-90100;Alteração Fibroadenomatoide;Mama esquerda - 01 Hora(Mamotomia);M-90100
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite|Antro gástrico|M-40000;Gastrite;Antro gástrico;M-40000
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Bócio|Tireoide|M-71600;Bócio;Tireoide;M-71600
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;ADENOMA SERRILHADO|Cólon ascendente|M-82110;ADENOMA SERRILHADO;Cólon ascendente;M-82110
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;ADENOMA SERRILHADO|Pólipo de cólon sigmoide|M-82110;ADENOMA SERRILHADO;Pólipo de cólon sigmoide;M-82110
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;ADENOMA SERRILHADO|Pólipo de reto|M-82110;ADENOMA SERRILHADO;Pólipo de reto;M-82110
+C50;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna da mama;CR Tumores da Mama;SNOMED com CID majoritário claro (1/1).;Adenocarcinoma Em Adenoma|Cólon ascendente|M-82103;Adenocarcinoma Em Adenoma;Cólon ascendente;M-82103
+C50;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna da mama;CR Tumores da Mama;SNOMED com CID majoritário claro (1/1).;Adenocarcinoma Em Adenoma|Pólipo de cólon sigmoide|M-82103;Adenocarcinoma Em Adenoma;Pólipo de cólon sigmoide;M-82103
+C50;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna da mama;CR Tumores da Mama;SNOMED com CID majoritário claro (1/1).;Adenocarcinoma Em Adenoma|Pólipo de reto|M-82103;Adenocarcinoma Em Adenoma;Pólipo de reto;M-82103
+C170;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna do duodeno;CR Tumores do Aparelho Digestivo Alto;SNOMED com CID majoritário claro (1/1).;Adenocarcinoma Em Adenoma Viloso|Cólon ascendente|M-82613;Adenocarcinoma Em Adenoma Viloso;Cólon ascendente;M-82613
+C170;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna do duodeno;CR Tumores do Aparelho Digestivo Alto;SNOMED com CID majoritário claro (1/1).;Adenocarcinoma Em Adenoma Viloso|Pólipo de cólon sigmoide|M-82613;Adenocarcinoma Em Adenoma Viloso;Pólipo de cólon sigmoide;M-82613
+C170;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna do duodeno;CR Tumores do Aparelho Digestivo Alto;SNOMED com CID majoritário claro (1/1).;Adenocarcinoma Em Adenoma Viloso|Pólipo de reto|M-82613;Adenocarcinoma Em Adenoma Viloso;Pólipo de reto;M-82613
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite|Estômago|M-40000;Gastrite;Estômago;M-40000
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenoma Tubular|Cólon ascendente|M-82110;Adenoma Tubular;Cólon ascendente;M-82110
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenoma Tubular|Pólipo de cólon sigmoide|M-82110;Adenoma Tubular;Pólipo de cólon sigmoide;M-82110
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenoma Tubular|Pólipo de reto|M-82110;Adenoma Tubular;Pólipo de reto;M-82110
+C50;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna da mama;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenocarcinoma Tubular Moderadamente Diferenciado, Oms 2010|Pólipo de reto|M-82113;Adenocarcinoma Tubular Moderadamente Diferenciado, Oms 2010;Pólipo de reto;M-82113
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico|Pólipo de cólon transverso|M-72040;Pólipo Hiperplásico;Pólipo de cólon transverso;M-72040
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico|Pólipo de reto 01|M-72040;Pólipo Hiperplásico;Pólipo de reto 01;M-72040
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico|Pólipo de reto 02|M-72040;Pólipo Hiperplásico;Pólipo de reto 02;M-72040
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite Crônica Antral Leve|Biopsia gástrica|M-43000;Gastrite Crônica Antral Leve;Biopsia gástrica;M-43000
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico|Biópsia de cólon sigmoide|M-72040;Pólipo Hiperplásico;Biópsia de cólon sigmoide;M-72040
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenoma Tubular|Cólon sigmoide|M-82110;Adenoma Tubular;Cólon sigmoide;M-82110
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenoma Tubular|Estômago|M-82110;Adenoma Tubular;Estômago;M-82110
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite Crônica Corpórea Leve|Cólon sigmoide|43000;Gastrite Crônica Corpórea Leve;Cólon sigmoide;43000
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite Crônica Corpórea Leve|Estômago|43000;Gastrite Crônica Corpórea Leve;Estômago;43000
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Lesão séssil serrilhada|Cólon de transverso|M-82110;Lesão séssil serrilhada;Cólon de transverso;M-82110
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Lesão séssil serrilhada|Cólon descendente|M-82110;Lesão séssil serrilhada;Cólon descendente;M-82110
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Lesão séssil serrilhada|Estômago|M-82110;Lesão séssil serrilhada;Estômago;M-82110
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico de Glândulas Fúndicas|Cólon sigmoide|M-72420;Pólipo Hiperplásico de Glândulas Fúndicas;Cólon sigmoide;M-72420
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico de Glândulas Fúndicas|Estômago|M-72420;Pólipo Hiperplásico de Glândulas Fúndicas;Estômago;M-72420
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenoma Tubular|Biópsia de cólon transverso|M-82110;Adenoma Tubular;Biópsia de cólon transverso;M-82110
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico|Cólon transverso|M-72040;Pólipo Hiperplásico;Cólon transverso;M-72040
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Pólipo Hiperplásico|Cón ascendente|M-72040;Pólipo Hiperplásico;Cón ascendente;M-72040
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite Crônica|Cólon de transverso|M-43000;Gastrite Crônica;Cólon de transverso;M-43000
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite Crônica|Cólon descendente|M-43000;Gastrite Crônica;Cólon descendente;M-43000
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite Crônica|Estômago|M-43000;Gastrite Crônica;Estômago;M-43000
+C34;REGRA_SNOMED_MAJORITARIO;1.0;Neoplasia maligna do brônquio e do pulmão;CR Tumores do Pulmão e Tórax;SNOMED com CID majoritário claro (1/1).;Carcinoma de Células Escamosas|Biópsia de epiglote|M-80703;Carcinoma de Células Escamosas;Biópsia de epiglote;M-80703
+D051;REGRA_SNOMED_MAJORITARIO;1.0;Carcinoma intraductal in situ;CR Tumores da Mama;SNOMED com CID majoritário claro (2/2).;Adenoma Tubular|Pólipo de cólon transverso|M-82110;Adenoma Tubular;Pólipo de cólon transverso;M-82110
+INDETERMINADO;SEM_CANDIDATOS;0.0;;;Nenhum candidato recuperado.;Gastrite|Biopsia gástrica|M-40000;Gastrite;Biopsia gástrica;M-40000

@@ -1,0 +1,10 @@
+{
+  "snomed_csv": "SNOMED_to_CID_2.csv",
+  "cr_csv": "Base CID_Classificação CR.csv",
+  "diag_topo_txt": "diagnosticos_topografia_v02.txt",
+  "snomed_md5": "1faf77806150f2dea8e7b6e10292310a",
+  "cr_md5": "0ff5bff2a1fe7e9137ff412f63acfca3",
+  "diag_topo_md5": "21403d9c0d8adba27162dbeb256edb5f",
+  "embed_model": "embeddinggemma",
+  "kb_mode": "snomed_cr_diag_topo_v2"
+}

@@ -1,0 +1,56 @@
+﻿chave_unica;CID_Final;Metodo
+Alteração Fibroadenomatoide|Mama esquerda - 01 Hora(Mamotomia)|M-90100;D24;REGRA_EXATA
+Gastrite|Antro gástrico|M-40000;Nenhum_CID_encontrado;RAG_LLM
+Bócio|Tireoide|M-71600;Nenhum_CID_encontrado;RAG_LLM
+ADENOMA SERRILHADO|Cólon ascendente|M-82110;Nenhum_CID_encontrado;RAG_LLM
+ADENOMA SERRILHADO|Pólipo de cólon sigmoide|M-82110;Nenhum_CID_encontrado;RAG_LLM
+ADENOMA SERRILHADO|Pólipo de reto|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Adenocarcinoma Em Adenoma|Cólon ascendente|M-82103;Nenhum_CID_encontrado;RAG_LLM
+Adenocarcinoma Em Adenoma|Pólipo de cólon sigmoide|M-82103;Nenhum_CID_encontrado;RAG_LLM
+Adenocarcinoma Em Adenoma|Pólipo de reto|M-82103;Nenhum_CID_encontrado;RAG_LLM
+Adenocarcinoma Em Adenoma Viloso|Cólon ascendente|M-82613;Nenhum_CID_encontrado;RAG_LLM
+Adenocarcinoma Em Adenoma Viloso|Pólipo de cólon sigmoide|M-82613;Nenhum_CID_encontrado;RAG_LLM
+Adenocarcinoma Em Adenoma Viloso|Pólipo de reto|M-82613;Nenhum_CID_encontrado;RAG_LLM
+Gastrite|Estômago|M-40000;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Cólon ascendente|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Pólipo de cólon sigmoide|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Pólipo de reto|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Adenocarcinoma Tubular Moderadamente Diferenciado, Oms 2010|Pólipo de reto|M-82113;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Pólipo de cólon transverso|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Pólipo de reto 01|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Pólipo de reto 02|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica Antral Leve|Biopsia gástrica|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Biópsia de cólon sigmoide|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Cólon sigmoide|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Estômago|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica Corpórea Leve|Cólon sigmoide|43000;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica Corpórea Leve|Estômago|43000;Nenhum_CID_encontrado;RAG_LLM
+Lesão séssil serrilhada|Cólon de transverso|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Lesão séssil serrilhada|Cólon descendente|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Lesão séssil serrilhada|Estômago|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico de Glândulas Fúndicas|Cólon sigmoide|M-72420;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico de Glândulas Fúndicas|Estômago|M-72420;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Biópsia de cólon transverso|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Cólon transverso|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Cón ascendente|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica|Cólon de transverso|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica|Cólon descendente|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica|Estômago|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Carcinoma de Células Escamosas|Biópsia de epiglote|M-80703;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Pólipo de cólon transverso|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Gastrite|Biopsia gástrica|M-40000;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Cólon transverso|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Cólon descendente|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Adenoma Tubular|Canal anal|M-82110;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica Antral Leve|Cólon ascendente|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica Antral Leve|Estômago|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica Antral Leve|Cólon descendente|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Gastrite Crônica Antral Leve|Canal anal|M-43000;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Cólon ascendente|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Estômago|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Cólon descendente|M-72040;Nenhum_CID_encontrado;RAG_LLM
+Pólipo Hiperplásico|Canal anal|M-72040;Nenhum_CID_encontrado;RAG_LLM
+ADENOMA TÚBULO-VILOSO|Cólon transverso|M-82630;Nenhum_CID_encontrado;RAG_LLM
+ADENOMA TÚBULO-VILOSO|Cólon descendente|M-82630;Nenhum_CID_encontrado;RAG_LLM
+Inflamação|Pólipo de cólon transverso|M-40000;Nenhum_CID_encontrado;RAG_LLM
+Inflamação|Pólipo de cólon descendente|M-40000;Nenhum_CID_encontrado;RAG_LLM

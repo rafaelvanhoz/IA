@@ -1,0 +1,1688 @@
+### pulmao_benigno
+- Papilomas
+- Papilomas brônquicos
+- Adenomas
+- Pneumocitoma esclerosante
+- Adenoma alveolar
+- Adenoma papilar
+- Adenoma brônquiolo / tumor papilar muconodular ciliado
+- Cistadenoma mucinoso
+- Adenoma das glândulas mucosas
+- Lesões glandulares precursoras
+- Hiperplasia adenomatosa atípica
+- in situ
+
+### pulmao_maligno
+- invasivo mínimo 
+- invasivo não mucinoso
+- mucinoso invasivo do pulmão
+- coloide do pulmão
+- fetal do pulmão
+- do tipo enterico do pulmão
+- Lesões precursoras escamosas
+- Displasia escamosa e carcinoma in situ do pulmão
+- Carcinomas de células escamosas
+- Carcinoma de células escamosas do pulmão
+- Carcinoma linfepitelial do pulmão
+- Carcinomas de célula grande
+- Carcinoma de célula grande do pulmão
+- Carcinoma adenosquamoso
+- Carcinoma adenosquamoso do pulmão
+- Carcinomas sarcomatoides
+- Carcinoma pleomórfico do pulmão
+- Blastoma pulmonar
+- Carcinosarcoma do pulmão
+- Outros tumores epiteliais
+- Carcinoma NUT do pulmão (ver carcinoma NUT do tórax)
+- Tumor indiferenciado deficiente em SMARCA4 torácico
+- Tumores do tipo glândula salivar
+- Adenoma pleomórfico do pulmão
+- Carcinoma adenoide cístico do pulmão
+- Carcinoma epitelial-mioepitelial do pulmão
+- Carcinoma mucoepidermoide do pulmão
+- Carcinoma de células claras hialinizante do pulmão
+- Mioepitelioma e carcinoma mioepitelial do pulmão
+
+### pulmao_neuroendocrino
+- Neoplasias neuroendócrinas do pulmão
+- Lesão precursora
+- Hiperplasia celular neuroendócrina pulmonar idiopática difusa
+- Tumores neuroendócrinos
+- Tumor carcinoide/neuroendócrino do pulmão
+- Carcinomas neuroendócrinos
+- Carcinoma pulmonar de pequenas células
+- Carcinoma neuroendócrino de células grandes do pulmão
+
+
+### tumores_mesenquimatosos_pulmão
+- Hamartoma pulmonar
+- Condroma pulmonar
+- Linfangiomatose pulmonar difusa
+- Blastoma pleuropulmonar
+- Sarcoma intimal da artéria pulmonar
+- Tumor miofibroblástico peribronquial congênito
+- Sarcoma mixoide pulmonar primário com fusão EWSR1-CREB1
+
+### timo_benigno
+- Timoma
+- Timoma Tipo A (incluindo subtipo atípico)
+- Timoma Tipo AB
+- Timoma Tipo B1
+- Timoma Tipo B2
+- Timoma Tipo B3
+- Timoma micronodular com estroma linfoide
+- Timoma metaplásico
+- Lipofibroadenoma do timo
+
+### timo_maligno
+- Carcinoma tímico: Introdução
+- Carcinoma de células escamosas do timo
+- Carcinoma basaloide do timo
+- Carcinoma linfepitelial do timo
+- Carcinoma NUT do tórax
+- Carcinoma de células claras do timo
+- papilífero de baixo grau do timo
+- Carcinoma mucoepidermoide do timo
+- Carcinoma tímico com características semelhantes ao carcinoma adenoide cístico
+- do tipo enterico do timo
+- NOS do timo
+- Carcinoma adenosquamoso do timo
+- Carcinoma sarcomatoide do timo
+- Carcinoma indiferenciado do timo
+- Carcinoma tímico NOS
+
+### timo_neuroendocrino
+- Neoplasias neuroendócrinas tímicas
+- Neoplasias neuroendócrinas tímicas: Introdução
+- Tumores neuroendócrinos
+- Tumor carcinoide/neuroendócrino do timo
+- Carcinomas neuroendócrinos
+- Carcinoma de pequenas células do timo
+- Carcinoma neuroendócrino de células grandes do timo
+
+### pleura_pericardio_benigno
+- Tumores mesoteliais
+- Tumores mesoteliais benignos e pré-invasivos
+- Tumor adenomatoide da pleura
+- Tumor mesotelial papilar bem diferenciado da pleura
+- Mesotelioma in situ
+
+### pleura_pericardio_maligno
+- Mesotelioma
+- Mesotelioma pleural localizado
+- Mesotelioma pleural difuso
+
+### coração_benigno
+- Tumores benignos
+- Fibroelastoma papilar
+- Mixoma cardíaco
+- Fibroma cardíaco
+- Rhabdomioma cardíaco
+- Rhabdomioma celular do adulto
+- Lipoma cardíaco e hipertrofia lipomatosa do septo atrial
+- Hamartoma lipomatoso da válvula atrioventricular
+- Hamartoma de miócitos cardíacos maduros
+- Hamartoma cardíaco mesenquimal
+- Hemangiomas cardíacos
+- Hamartoma do sistema de condução
+- Tumor cístico do nodo atrioventricular
+
+### coração_maligno
+- Angiosarcoma cardíaco
+- Leiomiosarcoma cardíaco
+- Sarcoma pleomórfico indiferenciado cardíaco
+- Outros sarcomas que podem envolver o coração
+
+### nasais_paranasais_base_craniana_benigno
+- Hamartomas
+- Hamartoma adenomatoide epitelial respiratório
+- Hamartoma seromucinoso
+- Hamartoma condromesenchimal nasal
+- Lesões epiteliais respiratórias
+- Papilomas sinonasais
+- Papiloma sinonasal, invertido
+- Papiloma sinonasal, oncocítico
+- Papiloma sinonasal, exofítico
+
+### nasais_paranasais_base_craniana_maligno
+- Carcinoma espinocelular queratinizante
+- Carcinoma espinocelular não-queratinizante
+- Carcinoma NUT
+- Carcinoma sinonasal deficiente no complexo SWI/SNF
+- Carcinoma linfepitelial sinonasal
+- Carcinoma sinonasal indiferenciado
+- Teratocarcinosarcoma
+- Carcinoma sinonasal multiphenotípico relacionado ao HPV
+- sinonasal do tipo intestinal
+- sinonasal do tipo não intestinal
+- Tumores mesenquimatosos do trato sinonasal
+- Angiofibroma do trato sinonasal
+- Glomangiopericitoma sinonasal
+- Sarcoma sinonasal biphenotípico
+- Chordoma
+- Outros tumores sinonasais
+- Ameloblastoma sinonasal
+- Craniofaringioma adamantinomatoso
+- Meningioma do trato sinonasal, ouvido e osso temporal
+- Neuroblastoma olfatório
+
+### nasofaringe_benigno
+- Hamartomas
+- Pólipo piloso
+- Tumor do análego da glândula salivar
+
+### nasofaringe_maligno
+- papilífero nasofaríngeo de baixo grau
+- Carcinoma nasofaríngeo
+
+### hipofaringe_laringe_parafaringe_benigno
+- Introdução
+- Lesões precursoras
+- Papiloma espinocelular e papilomatose
+- Displasia epitelial laringeana e hipofaríngea
+
+### hipofaringe_laringe_parafaringe_maligno
+- Carcinoma espinocelular convencional
+- Carcinoma verrucoso da hipofarinque, laringe, traqueia e espaço parafaringeal
+- Carcinoma espinocelular basaloide
+- Carcinoma espinocelular papiloso
+- Carcinoma espinocelular de células fusiformes
+- Carcinoma adenosquamoso
+- Carcinoma linfepitelial da laringe
+- Tumores cartilaginosos laringeanos
+
+### glândulas_salivares_benigno
+- Lesões epiteliais não neoplásicas
+- Hiperplasia oncocitária nodular
+- Sialadenite linfepitelial
+- Adenoma pleomórfico
+- Adenoma de células basocelulares
+- Tumor de Warthin
+- Oncocitoma
+- Mioepitelioma da glândula salivar
+- Adenoma canalicular
+- Cistadenoma das glândulas salivares
+- Papilomas ductais
+- Sialadenoma papilliferum
+- Linfadenoma
+- Adenoma sebáceo
+- Adenoma e hiperplasia do ducto intercalado
+- Adenoma do ducto estriado
+- Adenoma policístico esclerosante
+- Queratocistoma
+
+### glândulas_salivares_maligno
+- Carcinoma mucoepidermoide
+- Carcinoma adenoide cístico
+- Carcinoma de células acinares
+- Carcinoma secretor
+- microsecretor
+- polimórfico
+- Carcinoma de células claras hialinizante
+- basocelular
+- Carcinoma intraductal
+- Carcinoma ductal salivar
+- Carcinoma’
+
+### esofago_benigno
+- Papiloma escamoso esofágico
+- Displasia de Barrett
+- Displasia escamosa esofágica
+
+### esofago_maligno
+- do esôfago e da junção esofagogástrica NOS
+- Carcinoma adenóide cístico do esôfago
+- Carcinomas adenoescamoso e mucoepidermoide do esôfago
+- Carcinoma de células escamosas do esôfago NOS
+
+### estomago_benigno
+- Pólipos de glândula fúndica
+- Pólipos hiperplásicos gástricos
+- Displasia gástrica
+- Adenoma gástrico do tipo intestinal
+- Adenoma do tipo foveolar
+- Adenoma glandular pilórico gástrico
+- Adenoma glandular oxíntico
+
+### estomago_maligno
+- gástrico
+- Carcinoma de células escamosas gástrico
+- Carcinoma adenoescamoso gástrico
+- Carcinoma gástrico indiferenciado
+- Gastroblastoma
+- Neoplasias neuroendócrinas gástricas
+- Gastrointestinal stromal tumour
+- Tumor do Estroma Gastrointestinal (Gist)
+
+### intestino_delgado_ampula_benigno
+- Adenoma não ampular
+- Adenoma ampular
+
+### intestino_delgado_ampula_maligno
+- não ampular
+- ampular
+- Neoplasias neuroendócrinas intestinais e ampulares
+
+### apendice
+- Lesões e pólipos serrilhados do apêndice
+- Neoplasia mucinosa do apêndice
+- apêndice
+- células de goblet do apêndice
+- Neoplasias neuroendócrinas do apêndice
+
+### colon_reto_benigno
+- Lesões e pólipos serrilhados colorretais
+- Adenoma colorretal convencional
+- Displasia do cólon associada a doença inflamatória intestinal
+
+### colon_reto_maligno
+- colorretal
+- Neoplasias neuroendócrinas colorretais
+- Retossigmoidectomia
+
+### canal_anal_benigno
+- Pólipo cloacogênico inflamatório
+- Condiloma 
+- Displasia escamosa (neoplasia intraepitelial)
+
+### canal_anal_maligno
+
+### figado_benigno
+- Hipertrofia nodular focal do fígado
+- Adenoma hepatocelular
+
+### figado_maligno
+- Carcinoma hepatocelular
+- Hepatoblastoma
+
+### via_biliar_benigno
+- Adenoma do ducto biliar
+- Adenofibroma biliar
+- Neoplasia intraepitelial biliar
+- Neoplasia papilar intraductal dos ductos biliares
+- Neoplasia cística mucinosa do fígado e sistema biliar
+
+### via_biliar_maligno
+- Colangiocarcinoma intra-hepático
+- Carcinoma hepatocelular colangiocarcinoma combinado e carcinoma primário indiferenciado do fígado
+- Neoplasias neuroendócrinas hepáticas
+
+### vesicula_biliar_benigno
+- Adenoma glandular pilórico da vesícula biliar
+- Neoplasia intraepitelial biliar
+- Neoplasia papilar intracholecística (anteriormente chamada de neoplasia papilar intracística/intraductal)
+- Neoplasia papilar intraductal dos ductos biliares
+
+### vesicula_biliar_maligno
+- Carcinoma da vesícula biliar
+- Carcinoma dos ductos biliares extra-hepáticos
+- Neoplasias neuroendócrinas da vesícula biliar e dos ductos biliares
+
+### pancreas_benigno
+- Tumores epiteliais benignos e precursores
+- Transformação cística acinar do pâncreas
+- Neoplasmas serosos do pâncreas
+- Neoplasia intraepitelial pancreatic
+- Neoplasia papilar mucinosa intraductal do pâncreas
+- Neoplasia papilar oncocitária intraductal do pâncreas
+- Neoplasia tubulopapilar intraductal do pâncreas
+- Neoplasia cística mucinosa do pâncreas
+
+### pancreas_maligno
+- Carcinomas epiteliais malignos
+- ductal pancreático
+- Carcinoma de células acinares pancreático
+- Pancreatoblastoma
+- Neoplasia pseudopapilar sólida do pâncreas
+
+### pancreas_neuroendocrino
+- Neoplasias neuroendócrinas pancreáticas
+- Neoplasias neuroendócrinas pancreáticas: Introdução
+- Tumores neuroendócrinos pancreáticos não funcionantes
+- Tumores neuroendócrinos pancreáticos funcionantes
+- Insulinoma
+- Gastrinoma
+- VIPoma
+- Glucagonoma
+- Somatostatinoma
+- Tumor neuroendócrino produtor de ACTH
+- Tumor neuroendócrino produtor de serotonina
+- Carcinoma neuroendócrino pancreático
+- MiNENs pancreáticos
+
+### tireoide
+- Carcinoma derivado de células C da tireoide
+- Carcinoma medular da tireoide
+- Carcinomas mistos medulares e derivados de células foliculares
+- Carcinomas mistos medulares e foliculares da tireoide
+
+### paratireoide_benigno
+- Hiperplasia da paratireoide
+- Adenoma da paratireoide
+- Lipoadenoma paratireoideano
+- Tumor atípico da paratireoide
+
+### paratireoide_maligno
+- Carcinoma da paratireoide
+
+### adrenal_benigno
+- Lesões no córtex adrenal
+- Restos adrenais
+- Cistos adrenais
+- Mielolipoma adrenal
+- Tumores corticais adrenais
+- Hiperplasia adrenal congênita
+- Doença nodular adrenal cortical
+- Adenoma cortical adrenal
+
+### adrenal_maligno
+- Carcinoma cortical adrenal
+- Tumores estromais do cordão sexual adrenal
+- Tumor estromal do cordão sexual adrenal
+- Tumor adenomatoide
+- Melanoma adrenal
+
+### adrenal_medula_paraganglios_neuroendocrino
+- Tumores neuroblásticos
+- Neuroblastoma
+- Ganglioneuroblastoma, misto
+- Ganglioneuroblastoma, nodular
+- Ganglioneuroma
+- Paraganglioma e feocromocitoma
+- Feocromocitoma
+- Paraganglioma simpático
+- Paraganglioma parassimpático
+- Tumores paraganglionares compostos
+- Feocromocitomas e paragangliomas compostos
+
+### pancreas_neuroendocrino
+- Neoplasmas neuroendócrinos
+- Tumores neuroendócrinos
+- Tumores neuroendócrinos não funcionantes (não sindrômicos)
+- Insulinoma
+- Glucagonoma
+- Somatostatinoma
+- Gastrinoma
+- VIPoma
+- Tumores produtores de serotonina com e sem síndrome carcinoide
+- Outros tumores neuroendócrinos pancreáticos com produção hormonal ectópica
+- Carcinomas neuroendócrinos
+- Carcinoma neuroendócrino pancreático
+- Neoplasmas mistos neuroendócrinos-não neuroendócrinos
+- Neoplasmas mistos de ductal-neuroendócrino
+- Carcinoma misto acinar-neuroendócrino
+
+### neuroendocrino_orgaos_nao_endocrinos
+- Neoplasmas neuroendócrinos
+- Tumores neuroendócrinos
+- Carcinomas neuroendócrinos
+- Carcinoma neuroendócrino de pequenas células
+- Carcinoma neuroendócrino de grandes células
+- Carcinoma de células de Merkel
+- Neoplasmas neuroendócrinos mistos
+- Neoplasmas mistos neuroendócrinos-não neuroendócrinos
+- Neoplasmas neuroendócrinos semelhantes a paraganglioma
+- Tumor composto de gangliocitoma/neurofibroma e tumor neuroendócrino
+- Tumor neuroendócrino da cauda equina (anteriormente paraganglioma)
+
+### adipocitico_partes_moles
+- Lipoma
+- Lipomatosis
+- Lipomatosis of nerve
+- Lipoblastoma and lipoblastomatosis
+- Angiolipoma
+- Myolipoma of soft tissue
+- Chondroid lipoma
+- Spindle cell lipoma and pleomorphic lipoma
+- Hibernoma
+- Atypical spindle cell / pleomorphic lipomatous tumour
+- Atypical lipomatous tumour / well-differentiated liposarcoma
+- Dedifferentiated liposarcoma
+- Myxoid liposarcoma
+- Pleomorphic liposarcoma
+- Myxoid pleomorphic liposarcoma
+
+### fibroblastica_partes_moles
+- Nodular fasciitis
+- Proliferative fasciitis and proliferative myositis
+- Myositis ossificans and fibro-osseous pseudotumour of digits
+- Ischaemic fasciitis
+- Elastofibroma
+- Fibrous hamartoma of infancy
+- Fibromatosis colli
+- Juvenile hyaline fibromatosis
+- Inclusion body fibromatosis
+- Fibroma of tendon sheath
+- Desmoplastic fibroblastoma
+- Myofibroblastoma
+- Calcifying aponeurotic fibroma
+- EWSR1-SMAD3-positive fibroblastic tumour (emerging)
+- Angiomyofibroblastoma
+- Cellular angiofibroma
+- Angiofibroma of soft tissue
+- Nuchal-type fibroma
+- Acral fibromyxoma
+- Gardner fibroma
+- Palmar fibromatosis and plantar fibromatosis
+- Desmoid fibromatosis
+- Lipofibromatosis
+- Giant cell fibroblastoma
+- Dermatofibrosarcoma protuberans
+- Solitary fibrous tumour
+- Inflammatory myofibroblastic tumour
+- Low-grade myofibroblastic sarcoma
+- Superficial CD34-positive fibroblastic tumour
+- Myxoinflammatory fibroblastic sarcoma
+- Infantile fibrosarcoma
+- Adult fibrosarcoma
+- Myxofibrosarcoma
+- Low-grade fibromyxoid sarcoma
+- Sclerosing epithelioid fibrosarcoma
+- So-called fibrohistiocytic tumours
+- Tenosynovial giant cell tumour
+- Deep fibrous histiocytoma
+- Plexiform fibrohistiocytic tumour
+- Giant cell tumour of soft tissue
+
+### vascular_partes_moles
+- Haemangiomas
+- Synovial haemangioma
+- Intramuscular angioma
+- Arteriovenous malformation/haemangioma
+- Venous haemangioma
+- Anastomosing haemangioma
+- Epithelioid haemangioma
+- Lymphangioma and lymphangiomatosis
+- Tufted angioma and kaposiform haemangioendothelioma
+- Retiform haemangioendothelioma
+- Papillary intralymphatic angioendothelioma
+- Composite haemangioendothelioma
+- Kaposi sarcoma
+- Pseudomyogenic haemangioendothelioma
+- Epithelioid haemangioendothelioma
+- Angiosarcoma
+
+### pericítico_partes_moles
+- Glomus tumour
+- Myopericytoma, including myofibroma
+- Angioleiomyoma
+
+### musculo_liso_partes_moles
+- Leiomyoma
+- EBV-associated smooth muscle tumour
+- Inflammatory leiomyosarcoma
+- Leiomyosarcoma
+
+### musculo_esqueletico_partes_moles
+- Rhabdomyoma
+- Embryonal rhabdomyosarcoma
+- Alveolar rhabdomyosarcoma
+- Pleomorphic rhabdomyosarcoma
+- Spindle cell / sclerosing rhabdomyosarcoma
+
+### ectomesenchimo_partes_moles
+- Ectomesenchymoma
+
+### Mama_benigno
+- hiperplasia ductal usual", "alteração de células colunares sem atipias", "hiperplasia de células colunares sem atipias", "esferulose colagênica
+- alteração papilar apócrina", "metaplasia apócrina", "ectasia ductal", "cistificação de ductos", "alteração fibroadenomatoide", "microcalcificações intraluminais", "Adenose esclerosante
+- Adenoma apócrino", "adenose apócrina", "adenose microglandular", "cicatriz radiada", "lesão esclerosante complexa", "adenoma tubular", "adenoma lactante / lactação
+- adenoma ductal", "adenoma pleomórfico", "papiloma", "hiperplasia lobular atípica","fibroadenoma", "hamartoma", "tumor Phyllodes benigno", "hemangioma", "angiomatose", "Fasciíte nodular
+- miofibroblastoma", "schwannoma", "neurofibroma", "tumor de células granulares", "leiomioma", "lipoma", "adenoma", "neoplasia lobular não-invasiva
+- hiperplasia pseudoangiomatosa do estroma", "microcalcificações estromais
+- calcificações estromais distróficas" , "fibrose estromal", "lipossubstituição do parênquima mamário", "reação gigantocelular tipo corpo estranho", "fibrose", "cicatriz
+
+### mama_atipico
+- atipia epitelial plana", "alteração de células colunares com atipias", "hiperplasia de células colunares com atipias", "hiperplasia ductal atípica
+- Adenomioepitelioma", "tumor phyllodes borderline", "tumor phyllodes", "lesão vascular atipica", "fibromatose desmoide", "tumor miofibroblástico inflamatório
+
+### mama_maligno
+- carcinoma invasivo tipo não-especial", "Carcinoma ductal invasivo SOE", "carcinoma ductal invasor", "carcinoma lobular invasivo", "carcinoma lobular clássico
+- adenomioepitelioma maligno", "carcinoma adenoide cístico", "carcinoma ductal in situ", "carcinoma papilífero encapsulado", "caricnoma papilífero sólido in situ
+- caricnoma papilifero sólido invasivo", "carcinoma papilífero sólido", "carcinoma papilífero invasivo", "caricnima lobular in situ
+- carcinoma tubular", "Carcinoma mamário invasivo de padrão micropapilar", "carcinoma cribriforme", "carcinoma mucinoso", "cistomucinoso", "carcinoma micropapilar", "carcinoma com diferenciação apócrina
+- carcinoma metaplásico", "carcinoma de células acinares", "carcinoma secretório", "carcinoma mucoepidermoide", "polimorfo", "carcinoma de células altas", "tumor neuroendócrino
+- carcinoma neuroendócrino","tumor phyllodes maligno", "angiossarcoma", "tumor maligno da bainha neural", "tumor maligno da bainha do nervo", "leiomiossarcoma", "lipossarcoma
+
+### ovario_benigno
+- Cistoadenoma seroso
+- papiloma seroso
+- adenofibroma seroso
+- Cistoadenoma mucinoso, 
+- Cistoadenoma endometrioide
+- adenofibroma mucinoso
+- adenofibroma endometrioide
+- adenofiroma de céluas claras
+- cistoadenoma de células claras
+- cistoadenoma seromucinoso
+- adenofibroma seromucinoso
+- tumor de brenner
+- tumores de músculo liso
+- Myxoma do ovário
+- Fibroma
+- Tecoma
+- Tecoma luteinizado
+- Tumor estromal luteinizante
+- Tumor estromal esclerosante
+- Tumor estromal microcístico
+- Tumor estromal com células em anel de sinete
+- Tumor de células de Leydig
+- Tumor de células esteroides
+- Tumor de células de sertoli
+- Tumor de células Sertoli-Leydig
+- Teratoma maduro
+- Struma ovarii 
+- Teratoma monodermal cístico
+- Neoplasia somática originada em teratoma
+- Cistadenoma da rete
+- Adenoma da rete 
+- Tumor pseudopapilar sólido
+- Cisto folicular
+- Cisto de corpo lúteo
+- Cisto folicular luteinizado solitário
+- Luteoma gravídico
+- Hiperplasia estromal
+- Hipertecose estromal
+- Hiperplasia de células de Leydig
+- Fibromatose
+
+### ovario_atipico
+- Tumor seroso boderline
+- Tumor endometrioide boderline
+- Tumor mucinoso boderline
+- Tumor de células claras boderline
+- Tumor seromucinoso boderline
+- Tumor de brenner boderline
+- Tumor de células da granulosa juvenil
+- Tumor do cordão estromal com túbulos anulares
+- Tumor do cordão sexual e estromal
+- Gynandroblastoma
+- Tumor de Wolffian
+
+### ovário_maligno
+- Carcinoma seroso de baixo grau
+- Carcinoma seroso de alto grau
+- Carcinoma endometrioide
+- Carcinoma mucinoso
+- Carcinoma de células claras
+- Carcinoma seromucinoso
+- Tumor de Brenner maligno
+- mesonéfrico "like"
+- Carcinomas indiferenciados e desdiferenciados. 
+- Carcinossarcoma do ovário
+- Carcinoma misto do ovário
+- Sarcoma do estroma endometrial
+- Adenossarcoma
+- Tumor de células esteroides maligno
+- Fibrossarcoma ovariano
+- Tumor de células da granulosa adulto
+- Teratoma imaturo
+- Dysgerminoma
+- Tumor Yolk sac
+- Carcinoma embrionário
+- coriocarcinoma não gestacional
+- Tumor de células germinativas misto
+- Struma ovarii maligno
+- Carcinoide Ovariano
+- Tumores do tipo neuroectodermico
+- Neoplasia somática originada em teratoma
+- Gonadoblastoma
+- Tumor misto não classificado de células germinativas, cordão sexual e estromal
+- da rete
+- Carcinoma de pequenas células do ovário, tipo hipercalcêmico
+- Tumor de Wilms
+
+### Corpo do útero benigno
+- Hiperplasia endometrial
+- Pólipo endometrial
+- Metaplasia endometrial
+- Reação Arias-Stella
+- Leiomioma
+- Adenomioma
+- leiomyomatosis intravenosa
+- Nódulo do estroma endometrial
+- Tumor de células epitelioides perivasculares (PEComa) benigno
+ 
+### Corpo do útero atípico
+- Hiperplasia endometrial atípica
+- Tumores de músculo liso com potencial de malignidade incerto (STUMPs)
+- Tumor do cordão sexual do ovário símile
+- Adenomioma polipoide atípico
+
+### Corpo_do_útero_maligno
+- Carcinoma endometrioide
+- Carcinoma seroso
+- Carcinoma de células claras
+- Carcinomas indiferenciados e desdiferenciados. 
+- Carcinoma misto
+- Carcinossarcoma
+- Leiomissarcoma
+- Sarcoma do estroma endometrial 
+- Sarcoma indiferenciado
+- Perivascular epithelioid cell tumour (PEComa) maligno
+- Adenossarcoma
+- Tumor neuroectodérmico primitivo central
+- Tumor de células germinativas
+
+### Colo uterino benigno
+- Metaplasia escamosa
+- Atrofia do colo uterino
+- Condiloma (Condyloma acuminatum)
+- Neoplasia intraepitelial de baixo grau (NIC I)
+- Papiloma mulleriano
+- Cistos de Naboth
+- Tunnel clusters
+- Hiperplasia microglandular
+- Hiperplasia endocervical glandular lobular 
+- Hiperplasia endocervical laminar difusa
+- Restos mesonéfricos
+- Reação Arias-Stella
+- Endocervicose
+- Metaplasia tuboendometrioide
+- Tecido de próstata ectópico
+- Adenomioma
+
+
+### Colo uterino atípico
+- Neoplasia intraepitelial de alto grau (NIC II / NIC III)
+
+### Colo_uterino_maligno
+- Carcinoma de células escamosas HPV relacionado
+- Carcinoma de células escamosas HPV independente
+- Carcinoma de células escamosas SOE
+- in situ, HPV-associado
+- Adenocarcinoma, HPV-associado
+- in situ, HPV-independente, 
+- HPV-independente, tipo gástrico 
+- HPV-independente, tipo células claras
+- HPV-independente, tipo mesonéfrico
+- Carcinoma adenoescamoso 
+- Carcinoma mucoepidermoide
+- Carcinoma adenoide basal
+- Carcinoma inclassificável
+- Adenosarcoma 
+- Tumor de células germinativas
+
+
+
+### hematolinfoide_Proliferações_e_neoplasias_mieloides
+- Lesões mieloides precursoras
+- Neoplasias mieloproliferativas
+- Mastocitose
+- Neoplasias mielodisplásicas
+- Neoplasias mielodisplásicas/mieloproliferativas
+- Leucemia mieloide aguda
+- Sarcoma mieloide
+- Neoplasias mieloides secundárias
+- Neoplasias mieloides e proliferações associadas a condições antecedentes ou predisponentes
+- Neoplasias mieloides/linfoides
+- Leucemias agudas de linhagem mista ou ambígua
+- Neoplasias de células dendríticas plasmocitoides
+- Neoplasias de células de Langerhans e outras células dendríticas
+- Neoplasias de histiócitos/macrófagos
+- Lesões tipo tumor com predomínio de células B
+- Neoplasias de células B precursoras
+- Neoplasias de células B maduras
+- Linfoma de Hodgkin
+- Neoplasias de plasmócitos e outras doenças com paraproteínas
+- Proliferações e linfomas linfoides de células T e NK
+- Neoplasias de células dendríticas mesenquimais
+- Tumores miofibroblásticos
+- Tumores vasculares-estromais específicos do baço
+
+
+### hematolinfoide_Lesões_mieloides_precursoras
+- Hematopoiese clonal
+- Citopenia clonal de significado indeterminado
+
+
+### hematolinfoide_Neoplasias_mieloproliferativas
+- Leucemia mieloide crônica
+- Leucemia neutrofílica crônica
+- Leucemia eosinofílica crônica
+- Policitemia vera
+- Trombocitemia essencial
+- Mielofibrose primária
+- Leucemia mielomonocítica juvenil
+- Neoplasia mieloproliferativa SOE (sem outra especificação) (inclassificável)
+
+
+
+### hematolinfoide_Mastocitose
+- Mastocitose cutânea
+- Mastocitose sistêmica
+- Sarcoma de mastócitos
+
+
+
+### hematolinfoide_Neoplasias_mielodisplásicas
+- Neoplasias mielodisplásicas com anormalidades genéticas definidoras
+- Neoplasia mielodisplásica com baixos blastos e deleção 5q
+- Neoplasia mielodisplásica com baixos blastos e mutação SF3B1
+- Neoplasia mielodisplásica com inativação bialélica de TP53
+- Neoplasias mielodisplásicas definidas morfologicamente
+- Neoplasia mielodisplásica com baixos blastos
+- Neoplasia mielodisplásica, hipoplásica
+- Neoplasia mielodisplásica com aumento de blastos
+- Neoplasias mielodisplásicas da infância
+- Neoplasia mielodisplásica infantil com baixos blastos
+- Neoplasia mielodisplásica infantil com aumento de blastos
+
+
+
+### hematolinfoide_Neoplasias_mielodisplásicas/mieloproliferativas
+- Leucemia mielomonocítica crônica
+- Neoplasia mielodisplásica/mieloproliferativa com neutrofilia
+- Neoplasia mielodisplásica/mieloproliferativa com mutação SF3B1 e trombocitose
+- Neoplasia mielodisplásica/mieloproliferativa SOE (sem outra especificação) (inclassificável)
+
+
+
+### hematolinfoide_Leucemia_mieloide_aguda
+- Leucemia promielocítica aguda com fusão PML::RARA
+- Leucemia mieloide aguda com fusão RUNX1::RUNX1T1
+- Leucemia mieloide aguda com fusão CBFB::MYH11
+- Leucemia mieloide aguda com fusão DEK::NUP214
+- Leucemia mieloide aguda com fusão RBM15::MRTFA
+- Leucemia mieloide aguda com fusão BCR::ABL1
+- Leucemia mieloide aguda com rearranjo KMT2A
+- Leucemia mieloide aguda com rearranjo MECOM
+- Leucemia mieloide aguda com rearranjo NUP98
+- Leucemia mieloide aguda com mutação NPM1
+- Leucemia mieloide aguda com mutação CEBPA
+- Leucemia mieloide aguda, relacionada à mielodisplasia
+- Leucemia mieloide aguda com outras alterações genéticas definidas
+- Leucemia mieloide aguda definida por diferenciação
+- Leucemia mieloide aguda com diferenciação mínima
+- Leucemia mieloide aguda sem maturação
+- Leucemia mieloide aguda com maturação
+- Leucemia basofílica aguda
+- Leucemia mielomonocítica aguda
+- Leucemia monocítica aguda
+- Leucemia eritroide aguda
+- Leucemia megacariocítica aguda
+
+
+
+### hematolinfoide_Neoplasias_mieloides_secundárias
+- Neoplasia mieloide pós-terapia citotóxica
+- Neoplasias mieloides associadas à predisposição germinativa
+- Proliferações mieloides associadas à síndrome de Down
+
+
+
+### hematolinfoide_Neoplasias_mieloides/linfoides
+- Neoplasias mieloides/linfoides com eosinofilia e fusões de genes de tirosina quinase
+- Neoplasia mieloide/linfoide com rearranjo PDGFRA
+- Neoplasia mieloide/linfoide com rearranjo PDGFRB
+- Neoplasia mieloide/linfoide com rearranjo FGFR1
+- Neoplasia mieloide/linfoide com rearranjo JAK2
+- Neoplasia mieloide/linfoide com rearranjo FLT3
+- Neoplasia mieloide/linfoide com fusão ETV6::ABL1
+- Neoplasias mieloides/linfoides com outras fusões de genes de tirosina quinase
+
+
+
+### hematolinfoide_Leucemias_agudas_de_linhagem_mista_ou_ambígua
+- Leucemia aguda de linhagem ambígua com anormalidades genéticas definidoras
+- Leucemia aguda de fenótipo misto com fusão BCR::ABL1
+- Leucemia aguda de fenótipo misto com rearranjo KMT2A
+- Leucemia aguda de linhagem ambígua com outras alterações genéticas definidas
+- Leucemia aguda de linhagem ambígua definida imunofenotipicamente
+- Leucemia aguda de fenótipo misto, B/mieloide
+- Leucemia aguda de fenótipo misto, T/mieloide
+- Leucemia aguda de fenótipo misto, tipos raros
+- Leucemia aguda de linhagem ambígua SOE (sem outra especificação)
+- Leucemia indiferenciada aguda
+
+
+
+### hematolinfoide_Neoplasias_de_células_dendríticas_plasmocitoides
+- Proliferação de células dendríticas plasmocitoides maduras associada a neoplasia mieloide
+- Neoplasia de células dendríticas plasmocitoides blásticas
+
+
+
+### hematolinfoide_Neoplasias_de_células_de_Langerhans_e_outras_células_dendríticas
+- Neoplasias de células de Langerhans
+- Histiocitose de células de Langerhans
+- Sarcoma de células de Langerhans
+- Outras neoplasias de células dendríticas
+- Tumor de células dendríticas indeterminadas
+- Sarcoma de células dendríticas interdigitantes
+
+
+
+### hematolinfoide_Neoplasias_de_histiócitos/macrófagos
+- Neoplasias histiocíticas
+- Xantogranuloma juvenil
+- Doença de Erdheim-Chester
+- Doença de Rosai-Dorfman
+- Histiocitose ALK-positiva
+- Sarcoma histiocítico
+
+
+### hematolinfoide_Lesões_tipo_tumor_com_predomínio_de_células_B
+- Proliferações linfoides reativas ricas em células B que podem mimetizar linfoma
+- Doença relacionada a IgG4
+- Doença de Castleman unicêntrica
+- Doença de Castleman multicêntrica idiopática
+- Doença de Castleman multicêntrica associada a KSHV/HHV8
+
+
+
+### hematolinfoide_Neoplasias_de_células_B_precursoras
+- Leucemias/linfomas B-linfoblásticos
+- Leucemia/linfoma B-linfoblástico
+- Leucemia/linfoma B-linfoblástico com hiperdiploidia alta
+- Leucemia/linfoma B-linfoblástico com hipodiploidia
+- Leucemia/linfoma B-linfoblástico com iAMP21
+- Leucemia/linfoma B-linfoblástico com fusão BCR::ABL1
+- Leucemia/linfoma B-linfoblástico com características tipo BCR::ABL1
+- Leucemia/linfoma B-linfoblástico com rearranjo KMT2A
+- Leucemia/linfoma B-linfoblástico com fusão ETV6::RUNX1
+- Leucemia/linfoma B-linfoblástico com características tipo ETV6::RUNX1
+- Leucemia/linfoma B-linfoblástico com fusão TCF3::PBX1
+- Leucemia/linfoma B-linfoblástico com fusão IGH::IL3
+- Leucemia/linfoma B-linfoblástico com fusão TCF3::HLF
+- Leucemia/linfoma B-linfoblástico com outras alterações genéticas definidas
+- Leucemia/linfoma B-linfoblástico SOE (sem outra especificação)
+
+
+
+### hematolinfoide_Neoplasias_de_células_B_maduras
+- Proliferações linfocíticas pequenas pré-neoplásicas e neoplásicas
+- Linfocitose monoclonal de células B
+- Leucemia linfocítica crônica / linfoma linfocítico pequeno
+- Linfomas e leucemias esplênicas de células B
+- Leucemia de células pilosas
+- Linfoma de zona marginal esplênica
+- Linfoma de células B pequenas de polpa vermelha difusa esplênica
+- Linfoma/leucemia de células B esplênicas com nucléolos proeminentes
+- Linfoma linfoplasmocítico
+- Linfoma de zona marginal
+- Linfoma de zona marginal extranodal do tecido linfoide associado à mucosa
+- Linfoma de zona marginal cutâneo primário
+- Linfoma de zona marginal nodal
+- Linfoma de zona marginal nodal pediátrico
+- Linfoma folicular
+- Neoplasia de células B foliculares *in situ*
+- Linfoma folicular de tipo pediátrico
+- Linfoma folicular de tipo duodenal
+- Linfoma de centro folicular cutâneo
+- Linfoma de centro folicular cutâneo primário
+- Linfoma de células do manto
+- Neoplasia de células do manto *in situ*
+- Linfoma de células do manto não-nodal leucêmico
+- Transformações de linfomas indolentes de células B
+- Linfomas de células B grandes
+- Linfoma difuso de células B grandes SOE (sem outra especificação)
+- Linfoma de células B grandes rico em células T/histiócitos
+- Linfoma difuso de células B grandes / linfoma de células B grandes de alto grau com rearranjos MYC e BCL2
+- Linfoma de células B grandes ALK-positivo
+- Linfoma de células B grandes com rearranjo IRF4
+- Linfoma de células B de alto grau com aberração 11q
+- Granulomatose linfomatoide
+- Linfoma difuso de células B grandes EBV-positivo
+- Linfoma difuso de células B grandes associado à inflamação crônica
+- Linfoma de células B grandes associado à fibrina
+- Linfoma de células B grandes associado ao excesso de fluido (fluid overload-associated)
+- Linfoma plasmablástico
+- Linfoma de células B grandes primário de locais imunologicamente privilegiados
+- Linfoma difuso de células B grandes cutâneo primário, tipo perna
+- Linfoma de células B grandes intravascular
+- Linfoma de células B grandes primário do mediastino
+- Linfoma de zona cinzenta mediastinal
+- Linfoma de células B de alto grau SOE (sem outra especificação)
+- Linfoma de Burkitt
+- Proliferações e linfomas linfoides de células B associados a KSHV/HHV8
+- Linfoma de efusão primário
+- Linfoma difuso de células B grandes KSHV/HHV8-positivo
+- Distúrbio linfoproliferativo germinotrópico KSHV/HHV8-positivo
+- Proliferações e linfomas linfoides associados à deficiência e desregulação imune
+- Hiperplasias surgindo em deficiência/desregulação imune
+- Distúrbios linfoproliferativos polimórficos surgindo em deficiência/desregulação imune
+- Úlcera mucocutânea EBV-positiva
+- Linfomas surgindo em deficiência/desregulação imune
+- Proliferações e linfomas linfoides associados a erro inato de imunidade
+
+
+### hematolinfoide_Linfoma_de_Hodgkin
+- Linfoma de Hodgkin clássico
+- Linfoma de Hodgkin com predominância linfocitária nodular
+
+
+### hematolinfoide_Neoplasias_de_plasmócitos_e_outras_doenças_com_paraproteínas
+- Gamopatias monoclonais
+- Doença de aglutininas frias
+- Gamopatia monoclonal de significado indeterminado IgM
+- Gamopatia monoclonal de significado indeterminado não-IgM
+- Gamopatia monoclonal de significado renal
+- Doenças com deposição de imunoglobulina monoclonal
+- Amiloidose relacionada a imunoglobulina (Amiloidose AL)
+- Doença de deposição de imunoglobulina monoclonal
+- Doenças de cadeia pesada
+- Doença de cadeia pesada Mu
+- Doença de cadeia pesada Gama
+- Doença de cadeia pesada Alfa
+- Neoplasias de plasmócitos
+- Plasmocitoma
+- Mieloma de plasmócitos / mieloma múltiplo
+- Neoplasias de plasmócitos com síndrome paraneoplásica associada
+
+
+
+### hematolinfoide_Proliferações_e_linfomas_linfoides_de_células_T_e_NK
+- Lesões tipo tumor com predomínio de células T
+- Doença de Kikuchi-Fujimoto
+- Síndrome linfoproliferativa autoimune
+- Proliferação T-linfoblástica indolente
+- Neoplasias de células T precursoras
+- Leucemia/linfoma T-linfoblástico
+- Leucemia/linfoma T-linfoblástico SOE (sem outra especificação)
+- Leucemia/linfoma linfoblástico de precursor T precoce
+- Neoplasias de células T e NK maduras
+- Leucemias de células T e NK maduras
+- Leucemia T-prolinfocítica
+- Leucemia de linfócitos grandes granulares T
+- Leucemia de linfócitos grandes granulares NK
+- Leucemia/linfoma de células T do adulto
+- Síndrome de Sézary
+- Leucemia NK-célula agressiva
+- Proliferações e linfomas linfoides de células T cutâneos primários
+- Distúrbio linfoproliferativo de células T CD4-positivas pequenas ou médias cutâneo primário
+- Distúrbio linfoproliferativo de células T CD8-positivas acrais cutâneo primário
+- Micose fungoide
+- Distúrbio linfoproliferativo de células T CD30-positivo cutâneo primário: Papulose linfomatoide
+- Distúrbio linfoproliferativo de células T CD30-positivo cutâneo primário: Linfoma anaplásico de células grandes cutâneo primário
+- Linfoma de células T tipo paniculite subcutânea
+- Linfoma de células T gama-delta cutâneo primário
+- Linfoma de células T citotóxicas epidermotrópicas agressivas CD8-positivas cutâneo primário
+- Linfoma de células T periféricas cutâneo primário SOE (sem outra especificação)
+- Proliferações e linfomas linfoides de células T e NK intestinais
+- Linfoma de células T indolente do trato gastrointestinal
+- Distúrbio linfoproliferativo de células NK indolente do trato gastrointestinal
+- Linfoma de células T associado à enteropatia
+- Linfoma de células T intestinal epiteliotrópico monomórfico
+- Linfoma de células T intestinal SOE (sem outra especificação)
+- Linfoma de células T hepatoesplênico
+- Linfoma anaplásico de células grandes
+- Linfoma anaplásico de células grandes ALK-positivo
+- Linfoma anaplásico de células grandes ALK-negativo
+- Linfoma anaplásico de células grandes associado a implante mamário
+- Linfoma nodal de células T foliculares auxiliares
+- Linfoma nodal de células T foliculares auxiliares, tipo angioimunoblástico
+- Linfoma nodal de células T foliculares auxiliares, tipo folicular
+- Linfoma nodal de células T foliculares auxiliares SOE (sem outra especificação)
+- Outros linfomas de células T periféricas
+- Linfoma de células T periféricas SOE (sem outra especificação)
+- Linfomas de células T e NK EBV-positivos
+- Linfoma nodal de células T e NK EBV-positivo
+- Linfoma de células NK/T extranodal
+- Proliferações e linfomas linfoides de células T e NK EBV-positivos da infância
+- Alergia grave a picada de mosquito
+- Distúrbio linfoproliferativo tipo *hydroa vacciniforme*
+- Doença crônica sistêmica ativa por EBV
+- Linfoma de células T EBV-positivo sistêmico da infância
+
+
+### hematolinfoide_Neoplasias_de_células_dendríticas_mesenquimais
+- Neoplasias de células dendríticas foliculares
+- Sarcoma de células dendríticas foliculares
+- Sarcoma de células dendríticas foliculares inflamatório EBV-positivo
+- Tumor de células reticulares fibroblásticas
+
+
+### hematolinfoide_Tumores_miofibroblásticos
+- Miofibroblastoma palisadado intranodal
+
+
+### hematolinfoide_Tumores_vasculares-estromais_específicos_do_baço
+- Angioma de células litorais
+- Hamartoma esplênico
+- Transformação nodular angiomatoide esclerosante do baço
+
+
+### RIM_Tumores_de_células_renais
+### Rim benigno
+- Adenoma papilífero renal
+- Oncocitoma do rim
+- Adenoma metanéfrico
+- Adenofibroma metanéfrico
+- Angiomiolipoma clássico / PEComa do rim
+- Angiomiolipoma epitelioide / PEComa epitelioide do rim
+- Restos nefrogênicos
+- Tumor estromal metanéfrico
+- Tumor epitelial e estromal misto do rim
+- Nefroma cístico pediátrico
+- Hemangioblastoma renal
+- Nefroma mesoblástico congênito
+
+### Rim atípico
+- Neoplasia renal cística multilocular de baixo potencial de malignidade
+- Tumor de células renais papilífero de células claras
+- Tumor de células justaglomerulares
+- Tumor de células intersticiais renomedulares
+- Tumor renal ossificante da infância
+
+
+
+### Rim malilgno
+- Carcinoma de células renais de células claras
+- Carcinoma de células renais papilífero
+- Carcinoma de células renais cromófobo
+- Carcinoma do ducto coletor
+- Carcinoma mucinoso tubular e de células fusiformes
+- Carcinoma de células renais tubulocístico
+- Carcinoma de células renais associado a doença cística adquirida
+- Carcinoma de células renais cístico e sólido eosinofílico
+- Carcinoma de células renais SOE (sem outra especificação)
+- Carcinomas de células renais com rearranjo TFE3
+- Carcinomas de células renais alterados por TFEB
+- Carcinoma de células renais com mutação ELOC (anteriormente TCEB1)
+- Carcinoma de células renais deficiente em fumarato-hidratase
+- Carcinoma de células renais deficiente em succinato desidrogenase
+- Carcinomas de células renais com rearranjo ALK
+- Carcinoma medular renal deficiente em SMARCB1
+- Sarcoma de células claras do rim
+- Nefroblastoma cístico parcialmente diferenciado
+- Nefroblastoma / Tumor de  Wilms
+- Tumor rabdoide do rim
+
+
+
+### TRATO_URINÁRIO_benignos
+- Papiloma urotelial
+- Papiloma urotelial invertido
+- Neoplasia urotelial papilífera de baixo potencial de malignidade
+- Carcinoma urotelial papilífero não-invasivo, de baixo grau
+- Carcinoma urotelial papilífero não-invasivo, de alto grau
+- Carcinoma urotelial *in situ*
+- Adenoma viloso
+
+### TRATO_URINÁRIO_maligno
+- Carcinoma urotelial invasivo
+- Papiloma escamoso do trato urotelial
+- Carcinoma verrucoso da bexiga
+- Carcinoma escamoso puro do trato urotelial
+- SOE (sem outra especificação)
+- Carcinoma do úraco
+- Carcinoma diverticular
+- da glândula de Littre da uretra
+- da glândula de Skene da uretra
+- da glândula de Cowper da uretra
+- de células claras do trato urinário
+- Carcinoma endometrioide do trato urinário
+
+
+### próstata benigno:
+- Cistadenoma prostático
+
+### próstata atípico:
+- Neoplasia intraepitelial prostática de alto grau
+- Carcinoma intraductal da próstata
+- Tumor estromal prostático de potencial maligno incerto
+
+### próstata maligno
+- acinar prostático
+- ductal prostático
+- Carcinoma prostático neuroendócrino relacionado ao tratamento
+- Carcinoma adenoescamoso da próstata
+- Carcinoma de células escamosas da próstata
+- Carcinoma adenoide cístico (de células basais) da próstata
+- Sarcoma estromal prostático
+
+
+### vesícula seminal benigno
+- Cistadenoma da vesícula seminal
+
+### vesícula seminal atípico
+- Tumor epitelial e estromal misto da vesícula seminal
+
+### vesícula seminal maligno
+- da vesícula seminal
+- Carcinoma de células escamosas da vesícula seminal
+
+
+### testículo_células_germinativas:
+- Neoplasia de células germinativas *in situ*
+- Formas específicas de neoplasia de células germinativas intratubular
+- Gonadoblastoma
+- Seminoma
+- Carcinoma embrionário
+- Tumor do saco vitelino, tipo pós-puberal
+- Coriocarcinoma
+- Tumor trofoblástico do sítio placentário
+- Tumor trofoblástico epitelioide
+- Tumor trofoblástico cístico
+- Teratoma, tipo pós-puberal
+- Teratoma com malignidade de tipo somático
+- Tumores de células germinativas mistos
+- Tumores de células germinativas regredidos
+- Tumor espermatocítico
+- Teratoma, tipo pré-puberal
+- Tumor do saco vitelino, tipo pré-puberal
+- Tumor neuroendócrino testicular, tipo pré-puberal
+- Teratoma e tumor do saco vitelino mistos, tipo pré-puberal
+- Tumor de células de Leydig
+- Tumor de células de Sertoli
+- Tumor de células de Sertoli calcificante de grandes células
+- Tumor de células da granulosa do adulto
+- Tumor de células da granulosa juvenil
+- Tumores do grupo fibroma-tecoma
+- Tumor estromal dos cordões sexuais misto
+- Tumor estromal de células em anel de sinete
+- Tumor estromal gonadal mioide
+- Tumor estromal dos cordões sexuais SOE (sem outra especificação)
+
+
+### testículo benigno
+- Cistadenoma seroso
+- Cistadenoma mucinoso
+- Tumor de Brenner benigno
+- Adenoma dos ductos coletores e rete testis
+- Tumor adenomatoide
+- Cistadenoma papilar do epidídimo
+
+
+### testículo atípico
+- Tumor seroso de malignidade borderline
+- Tumor borderline mucinoso
+- Tumor mesotelial papilar bem diferenciado
+
+### testículo maligno:
+- Cistseroso
+- Cistmucinoso
+- de células claras
+- dos ductos coletores e rete testis
+- Mesotelioma
+- Cistadenoma do epidídimo
+- do epidídimo
+- Carcinoma de células escamosas do epidídimo
+- Tumor neuroectodérmico melanótico do epidídimo
+
+
+### Penis_benigno:
+- Condiloma acuminado
+- Neoplasia intraepitelial peniana, associada a HPV
+- Neoplasia intraepitelial peniana diferenciada, independente de HPV
+
+### Penis maligno:
+- Carcinoma de células escamosas associado a HPV
+- Carcinoma de células escamosas independente de HPV
+- Carcinoma de células escamosas SOE (sem outra especificação)
+- Carcinomas adenoescamosos e mucoepidermoides penianos
+- Doença de Paget extramamária
+- Carcinoma de células basais do escroto
+
+### SNC_Gliomas,_tumores_glioneuronais,_e_tumores_neuronais
+- Astrocitoma, IDH-mutante
+- Oligodendroglioma, IDH-mutante e 1p/19q-codeletado
+- Glioblastoma, IDH-wildtype (tipo selvagem)
+- Astrocitoma difuso, alterado por MYB ou MYBL1
+- Glioma angiocêntrico
+- Tumor neuroepitelial de baixo grau polimorfo do jovem
+- Glioma difuso de baixo grau, alterado pela via MAPK
+- Glioma difuso da linha média, alterado por H3 K27
+- Glioma hemisférico difuso, H3 G34-mutante
+- Glioma de alto grau difuso tipo pediátrico, H3-wildtype (tipo selvagem) e IDH-wildtype (tipo selvagem)
+- Glioma hemisférico tipo infantil
+- Astrocitoma pilocítico
+- Astrocitoma de alto grau com características piloides
+- Xantoastrocitoma pleomórfico
+- Astrocitoma de células gigantes subependimal
+- Glioma cordoide
+- Astroblastoma, alterado por MN1
+- Ganglioglioma
+- Gangliocitoma
+- Ganglioglioma infantil desmoplásico / Astrocitoma infantil desmoplásico
+- Tumor neuroepitelial disembrioplástico
+- Tumor glioneuronal difuso com características de oligodendroglioma e *clusters* nucleares
+- Tumor glioneuronal papilar
+- Tumor glioneuronal formador de rosetas
+- Tumor glioneuronal mixoide
+- Tumor glioneuronal leptomeníngeo difuso
+- Tumor neuronal multinodular e vacuolizante
+- Gangliocitoma cerebelar displásico (doença de Lhermitte-Duclos)
+- Neurocitoma central
+- Neurocitoma extraventricular
+- Liponeurocitoma cerebelar
+
+
+### SNC_Tumores_ependimários
+- Ependimoma supratentorial
+- Ependimoma supratentorial, ZFTA fusão-positivo
+- Ependimoma supratentorial, YAP1 fusão-positivo
+- Ependimoma de fossa posterior
+- Ependimoma de fossa posterior grupo A (PFA)
+- Ependimoma de fossa posterior grupo B (PFB)
+- Ependimoma espinhal
+- Ependimoma espinhal, MYCN-amplificado
+- Ependimoma mixopapilar
+- Subependimoma
+
+
+### SNC_Tumores_do_plexo_coroide
+- Papiloma do plexo coroide
+- Papiloma atípico do plexo coroide
+- Carcinoma do plexo coroide
+
+
+### SNC_Tumores_embrionários
+- Meduloblastoma, WNT-ativado
+- Meduloblastoma, SHH-ativado e TP53-wildtype (tipo selvagem)
+- Meduloblastoma, SHH-ativado e TP53-mutante
+- Meduloblastoma, não-WNT/não-SHH
+- Meduloblastoma, histologicamente definido
+- Tumor teratoide/rabdoide atípico
+- Tumor neuroepitelial cribriforme
+- Tumor embrionário com rosetas multicamadas
+- Neuroblastoma do SNC, FOXR2-ativado
+- Tumor do SNC com duplicação em *tandem* interna BCOR
+- Tumor embrionário do SNC NEC/NOS (não especificado de outra forma/sem outra especificação)
+
+
+### SNC_Tumores_pineais
+- Pineocitoma
+- Tumor parenquimal pineal de diferenciação intermediária
+- Pineoblastoma
+- Tumor papilar da região pineal
+- Tumor mixoide desmoplásico da região pineal, SMARCB1-mutante
+
+
+### SNC_Tumores_de_nervos_cranianos_e_paraespinhais
+- Schwannoma
+- Neurofibroma
+- Perineurioma
+- Tumores híbridos da bainha neural
+- Tumor maligno melanótico da bainha neural
+- Tumor maligno da bainha do nervo periférico
+- Tumor neuroendócrino da cauda equina (anteriormente paraganglioma)
+
+
+### SNC_Meningioma
+- Meningioma
+
+### osso_tumores_condrogênicos
+- Exostose subungueal
+- Proliferação osteocondromatosa parosteal bizarra
+- Condroma periosteal
+- Encondroma
+- Osteocondroma
+- Condroblastoma
+- Fibroma condromixoide
+- Osteocondromixoma
+- Condromatose sinovial
+- Tumor cartilaginoso atípico central / Condrossarcoma, grau 1
+- Tumor cartilaginoso atípico periférico secundário / Condrossarcoma, grau 1
+- Condrossarcoma central, graus 2 e 3
+- Condrossarcoma periférico secundário, graus 2 e 3
+- Condrossarcoma periosteal
+- Condrossarcoma de células claras
+- Condrossarcoma mesenquimal
+- Condrossarcoma desdiferenciado
+
+
+### osso_tumores_osteogênicos
+- Osteoma
+- Osteoma osteoide
+- Osteoblastoma
+- Osteossarcoma central de baixo grau
+- Osteossarcoma
+- Osteossarcoma paraosteal
+- Osteossarcoma periosteal
+- Osteossarcoma de superfície de alto grau
+- Osteossarcoma secundário
+
+
+### osso_tumores_fibrogênicos
+- Fibroma desmoplásico do osso
+- Fibrossarcoma do osso
+
+
+### osso_tumores_vasculares_do_osso
+- Hemangioma do osso
+- Hemangioma epitelioide do osso
+- Hemangioendotelioma epitelioide do osso
+- Angiossarcoma do osso
+
+
+### osso_tumores_ricos_em_células_gigantes_osteoclásticas
+- Cisto ósseo aneurismático
+- Tumor de células gigantes do osso
+- Fibroma não-ossificante
+
+
+### osso_tumores_notocordais
+- Tumor benigno de células notocordais
+- Cordoma convencional
+- Cordoma desdiferenciado
+- Cordoma pouco diferenciado
+
+### osso_outros_tumores_mesenquimais_do_osso
+- Hamartoma condromesenquimal da parede torácica
+- Displasia osteofibrosa
+- Adamantinoma de ossos longos
+- Cisto ósseo simples
+- Mesenquimoma fibrocartilaginoso
+- Displasia fibrosa
+- Lipoma e hibernoma do osso
+- Leiomiossarcoma do osso
+- Sarcoma pleomórfico indiferenciado
+- Metástases ósseas
+
+### osso_neoplasias_hematopoiéticas_do_osso
+- Plasmocitoma solitário do osso
+- Linfoma não-Hodgkin primário do osso
+- Histiocitose de células de Langerhans
+- Doença de Erdheim-Chester
+- Doença de Rosai-Dorfman
+
+### Tuba_uterina_Tumores_epiteliais
+- Adenofibroma seroso e papiloma da tuba uterina
+- Tumor seroso *borderline* da tuba uterina
+- Carcinoma seroso de alto grau da tuba uterina
+- Carcinoma endometrioide da tuba uterina
+- Carcinossarcoma da tuba uterina
+
+
+### Tuba_uterina_Lesões_semelhantes_a_tumores
+- Cistos paratubários
+- Hiperplasia tubária
+- Abscesso tubo-ovariano
+- Salpingite ístmica nodosa
+- Lesão papilar metaplásica
+- Nódulo de sítio placentário ocorrendo na tuba uterina
+- Metaplasia mucinosa
+- Endosalpingiose da tuba uterina
+
+### Tuba_uterina_Tumores_mistos_epiteliais_e_mesenquimais
+- Adenossarcoma da tuba uterina
+
+
+### Tuba_uterina_Tumores_de_células_germinativas
+- Teratoma da tuba uterina
+
+
+### Tireoide_maligno
+- Carcinoma anaplásico
+- Carcinoma indiferenciado
+- Carcinoma cribriforme morular
+- Carcinoma papilífero
+- Carcinoma papilífero clássico
+- Carcinoma folicular variante de células oncocíticas
+- Carcinoma folicular variante de células oxifílicas
+- Carcinoma de células de Hürthle
+- carcinoma oncocítico
+- Carcinoma folicular
+- carcinoma folicular amplamente invasivo
+- Carcinoma folicular microinvasivo
+- Tumor trabecular hializante
+- Carcinoma folicular pouco diferenciado
+- Carcinoma insular
+- Carcinoma pouco diferenciado
+- Carcinoma diferenciado de alto grau
+- Carcinoma não anaplásico derivado de células foliculares de alto grau
+- carcinoma de diferenciação folicular de alto grau não anaplasico da tireoide
+- Carcinoma papilífero subtipo folicular
+- Carcinoma papilífero variante folicular encapsulado invasivo
+- carcinoma papilífero variante folicular
+- Microcarcinoma papilífero da tireoide
+- Carcinoma papilífero oncocítico
+- Carcinoma papilífero variante oncocítica
+- Carcinoma papilífero variante de células colunares
+- Carcinoma papilífero variante de células altas
+- Carcinoma medular
+- Carcinoma misto derivado de células medulares e foliculares
+- Carcinoma papilífero e medular combinado
+- Carcinoma papilífero variante esclerosante difusa
+- Carcinoma mucoepidermoide
+- tireoblastoma
+- Tumor bem diferenciado de potencial de malignidade incerto
+
+### Tireoide_atipico
+- Tumor trabecular hialinizante
+- Neoplasia Folicular Não Invasiva da Tireoide com características nucleares papilífero símile
+- Neoplasia Folicular Oncocítica Não Invasiva da Tireoide com características nucleares papilífero símile
+- Neoplasia Folicular Não Invasiva da Tireoide com características nucleares papilífero símile
+- Tumor folicular de potencial de malignidade incerto
+
+### Tireoide_benigno
+- Cistoadenoma oncocítico
+- adenoma oncocítico
+- Adenoma folicular
+- Cisto do ducto tireoglosso
+- doença folicular da tireoide
+- tireoidite de Hashimoto
+- tireoidite subaguda (De Quervain)
+- tireoidite De Quervain
+- tireoidite supurativa aguda
+- tireoidite de Riedel
+- tireoidite linfocítica
+- tireoidite
+- bócio coloide
+- nódulo coloide
+
+
+### Pele_maligno
+- Carcinoma basocelular
+- Carcinoma basoescamoso
+- Doença de Bowen
+- Sarcoma de Kaposi
+- Keratoacantoma
+- Queratoacanatoma
+- Ceratoacantoma
+- Carcinoma de células escamosas superficialmente invasivo
+- Carcinoma linfoepitelial
+- Carcinoma de células de Merkel
+- Carcinoma de Merkel
+- Carcinoma neuroendócrino
+- Melanoma
+- anexial SOE
+- Carcinoma anexial Microcístico
+- Tumor cribriforme
+- Porocarcinoma
+- Carcinoma NUT
+- Tumor Misto Maligno
+- Hidradenocarcinoma
+- Carcinoma endócrino produtor de mucina de glândula sudoripara
+- Carcinoma mucinoso
+- digital papilífero
+- Carcinoma adenoide cístico
+- Carcinoma apócrino
+- Carcinoma écrino ductal escamoso
+- Siringocystpapilífero
+- Carcinoma secretório
+- Carcinoma hisitocitoide
+- Carcinoma de células em anel de sinete
+- Tumor Triquelemal proliferativo
+- Carcinoma pilomatrical
+- Carcinoma tricoblastico
+- Carcinossarcoma
+- Carcinoma triquilemal
+- Carcinoma sebáceo
+- Doença de Paget Mamária
+- Doença de Paget extra-mamária
+- do tipo glândula mamária
+- Myxofibrosarcoma
+- Angiossarcoma cutâneo
+- Tumor Maligno da bainha neural
+- Sarcoma dérmico pleomórfico
+- Sarcoma epitelioide
+- Tumor cutâneo CRTC1::TRIM11
+- Sarcoma de células claras dérmico
+- Sarcoma de Ewing
+- doença de paget extramamária
+- infiltração por carcinoma
+- carcinoma écrino ductal escamoide
+- angiossarcoma
+- micose fungoide_hematolinfoide
+- neoplasia basaloide maligna
+
+
+### Pele_atipico
+- Melanocitoma
+- Tumor melanocítico via MITF ativada
+- Dermatofibrosarcoma protuberans
+- Sarcoma myxoinflamatório fibroblástico
+- Hemangioendotelioma
+- Histiocimatoma fibroso angiomatoide
+- Neoplasia de células fusiformes com rearranjo de NTRK
+- Fibroxantoma atípico
+- Tumor fibroblástico superficial CD34+
+- Neoplasia de músculo liso intradérmica atípica
+- Proliferação melanocítica atípica
+- displásico
+- infiltrado linfoide atípico
+- infiltrado linfocítico atípico
+- dermatofibrossarcoma protuberans
+- proliferação melanocítica composto atípica
+- proliferação melanocítica composta atípica
+- proliferação melanocítica com atipias
+- proliferação melanocítica
+- hiperplasia melanocítica lentiginosa com atipias
+- proliferação melanocítica composta com atipias
+- proliferação vascular atípica
+- proliferação melanocítica composta, com intensas atipias
+- displasia de alto grau
+- proliferação melanocítica
+- proliferação epitelial atípica
+
+### Pele_benigno
+- Ceratose Actinica
+- Ceratose seborreica
+- Lentigo Solar
+- Ceratose líquen plano símile
+- ceratose líquen plano like
+- Acantoma
+- Disqueratoma
+- Disceratoma
+- Nevo melanocítico Juncional
+- Nevo melanocítico Composto
+- Nevo melanocítico Lentiginoso
+- Nevo melanocítico Displásico
+- Nevo melanocítico de Spitz
+- Nevo melanocítico Pigmentado de células fusiformes (Reed naevus)
+- Nevo melanocítico Spilus
+- Nevo melanocítico Sítio especial
+- Nevo melanocítico Halo
+- Nevo melanocítico Recorrente
+- Nevo melanocítico de Meyerson
+- Nevo melanocítico Combinado
+- Nevo melanocítico Acral
+- Nevo melanocítico Azul
+- Nevo melanocítico intradérmico
+- Verruga
+- Hidrocistoma
+- cistadenoma
+- Siringoma
+- Poroma
+- Siringofibroadenoma
+- Hidradenoma
+- Spiradenoma
+- Cilindroma
+- Adenoma tubular
+- Siringocistoadenoma papilífero
+- Mioepitelioma
+- Tumor misto
+- Tricoblastoma
+- Pilomatricoma
+- Matricoma melanocítico
+- Triquilemoma
+- Tricoadenoma
+- Tricofoliculoma
+- Acantoma pilar
+- Tumor do infundibulo folicular
+- Tricodiscoma
+- Fibrofoliculoma
+- Sebaceoma
+- Adenoma sebáceo
+- Hidroadenoma papilífero
+- Fibroadenoma e tumor phyllodes das glândulas mamárias-like anogenitais
+- Lipoma
+- Fibroma
+- Fibroblastoma
+- Papula fibrosa
+- Pseudotumor fibro-osseo dos dígitos
+- Dermatofibroma
+- Histiocitoma fibroso
+- Fibromatose
+- Tumor fibrohistiocítico plexiforme
+- Fibromixoma Acral
+- Mixoma cuatneo
+- angiomixoma superficial
+- Fibromixoma acral superficial
+- angiohistiocitoma de células multinucleadas
+- Fibroma dermal
+- Fasciite nodular
+- Hemangioma
+- Linfangioma
+- Nodulo angiomatoso epiteloide cutâneo
+- Lesão vascular atípica pós radiação
+- Tumor Glômico
+- Miopericitoma
+- Miofibroma e miofibromatose
+- Angioleiomioma
+- Hamartoma
+- Leiomioma cutâneo
+- Tumor de músuclo liso associado a EBV
+- Neuroma
+- Mixoma da bainha do nervo
+- Perineuroma
+- Neurofibroma
+- Schwannoma
+- Tumor de células granulares
+- Neurotecoma celular
+- Histiocitoma fibroso epitelioide
+- Tumor de células granulares não neural
+- PEComa
+- Outros diagnósticos benignos não neoplásicos
+- Cisto de inclusão epidérmica
+- Ausência de neoplasia residual
+- Fibrose
+- Hemangioma
+- Nevo sebáceo
+- lentigo simples
+- tricoepitelioma
+- pólipo fibroepitelial
+- hiperplasia sebácea
+- pápula
+- nevo azul
+- nevo de spitz
+- nevo halo
+- pólipo fibroepitelial
+- reação gigantocelular do tipo corpo estranho
+- malformação vascular
+- fibroqueratoma
+- leiomioma
+- hidroadenite
+- tecido de granulação
+- esteatocistoma
+- fibroqueratoma
+- cisto triquilemal
+- xantelasma
+- acrocórdon
+- granuloma piogênico
+- elastose solar
+- espiroadenoma écrino
+- acrocordon
+- cisto mixoide
+- melanose
+- cisto infundibular
+- tumor proliferativo pilar
+- cisto sinovial
+- condiloma acuminado
+- cicatriz hipertrófica
+- perifoliculite
+- molusco contagioso
+- queloide
+- angioceratoma
+- foliculite
+- fibroceratoma
+- granuloma
+- lentigo
+- pele dentro dos limites histológicos da normalidade
+- Dermatite
+- dermatose
+- paniculite
+
