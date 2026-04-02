@@ -1,0 +1,17 @@
+# Variáveis de ambiente
+.env
+.env.*
+*.env
+.xlsx
+
+# Chaves e certificados
+*.pem
+*.key
+*.crt
+*.pfx
+
+
+__pycache__/
+*.pyc
+.venv/
+venv/
