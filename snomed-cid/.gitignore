@@ -3,6 +3,7 @@
 .env.*
 *.env
 .xlsx
+.csv
 
 # Chaves e certificados
 *.pem
