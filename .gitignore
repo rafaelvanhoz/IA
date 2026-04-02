@@ -1,5 +1,8 @@
 .env
 *.csv
+*.xls
+*.xlsx
+*.docx
 .ipynb_checkpoints
 __pycache__
 *.zip
